@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B689A1-7DED-463D-A8DB-52AD7D34D712}|DE01\\DE01.csproj|e:\\hoc tap\\2024 - 2025\\lap trinh tren moi truong win\\kiem tra\\nguyenthanhquy_2287700070\\de01\\de01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B689A1-7DED-463D-A8DB-52AD7D34D712}|DE01\\DE01.csproj|solutionrelative:de01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B689A1-7DED-463D-A8DB-52AD7D34D712}|DE01\\DE01.csproj|E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\de01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49B689A1-7DED-463D-A8DB-52AD7D34D712}|DE01\\DE01.csproj|solutionrelative:de01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B689A1-7DED-463D-A8DB-52AD7D34D712}|DE01\\DE01.csproj|E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\de01\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B689A1-7DED-463D-A8DB-52AD7D34D712}|DE01\\DE01.csproj|solutionrelative:de01\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\DE01\\Form1.cs",
+              "RelativeDocumentMoniker": "DE01\\Form1.cs",
+              "ToolTip": "E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\DE01\\Form1.cs",
+              "RelativeToolTip": "DE01\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:35:17.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDB.cs",
+              "DocumentMoniker": "E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\DE01\\StudentDB.cs",
+              "RelativeDocumentMoniker": "DE01\\StudentDB.cs",
+              "ToolTip": "E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\DE01\\StudentDB.cs",
+              "RelativeToolTip": "DE01\\StudentDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:34:29.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\DE01\\Form1.cs",
+              "RelativeDocumentMoniker": "DE01\\Form1.cs",
+              "ToolTip": "E:\\HOC TAP\\2024 - 2025\\lap trinh tren moi truong win\\KIEM TRA\\NguyenThanhQuy_2287700070\\DE01\\DE01\\Form1.cs [Design]",
+              "RelativeToolTip": "DE01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:13:11.984Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

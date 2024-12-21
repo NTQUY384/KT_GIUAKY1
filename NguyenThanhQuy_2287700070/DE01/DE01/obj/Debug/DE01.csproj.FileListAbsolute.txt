@@ -1,0 +1,15 @@
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\bin\Debug\DE01.exe.config
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\bin\Debug\DE01.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\bin\Debug\DE01.pdb
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\bin\Debug\EntityFramework.dll
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\bin\Debug\EntityFramework.SqlServer.dll
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\bin\Debug\EntityFramework.xml
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\bin\Debug\EntityFramework.SqlServer.xml
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.csproj.AssemblyReference.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.Form1.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.Properties.Resources.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.csproj.GenerateResource.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.csproj.CoreCompileInputs.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.csproj.Up2Date
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\KIEM TRA\NguyenThanhQuy_2287700070\DE01\DE01\obj\Debug\DE01.pdb
